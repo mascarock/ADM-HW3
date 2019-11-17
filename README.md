@@ -13,4 +13,4 @@ In this folder, you will find :
 - A python file, **index_utils.py**, containing the functions used in *index.py*.
 - A python file, **utils.py**, containing all the functions we used in this homework.
 - A python file, **main.py**, containing the 3 search engines. This one will be used during the oral exam.
-- A python file, **exercise_4.py**, containing the code used for the fourth part of the homework.
+- A python file, **hw3-q4.ipynb**, containing the code used for the fourth part of the homework.
