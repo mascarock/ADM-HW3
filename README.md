@@ -1,4 +1,4 @@
-# ADM-HW3-Group7
+# ADM-HW3-Group8
 
 This repository contains all the files of group **8**.
 
