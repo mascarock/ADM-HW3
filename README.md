@@ -2,9 +2,9 @@
 
 This homework is realised by:
 
-Gabriele Giannotta 1909375
-Masoumeh Shariat 1916321
-Niccolò Mascaro
+- Gabriele Giannotta 1909375
+- Masoumeh Shariat 1916321
+- Niccolò Mascaro
 
 We have these files: 
 
